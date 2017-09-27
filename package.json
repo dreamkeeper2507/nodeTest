@@ -1,0 +1,26 @@
+{
+  "name": "nodeproj",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "app1.js",
+  "dependencies": {
+    "express": "^4.15.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamkeeper2507/nodeTest.git"
+  },
+  "keywords": [
+    "nodeTest"
+  ],
+  "author": "Malikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamkeeper2507/nodeTest/issues"
+  },
+  "homepage": "https://github.com/dreamkeeper2507/nodeTest#readme"
+}
